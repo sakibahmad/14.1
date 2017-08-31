@@ -1,0 +1,20 @@
+
+a)	What is the difference between Internal Storage & External Storage?
+ Ans)
+1)
+External Storage can be access by outside environment .
+Internal Storage is access within the environment of an application.
+
+2)
+External Storage is not much secure than internal storage.
+Internal Storage is much more secure than external storage as it can be easily available.
+
+b)	For how long the data resides in the cache?
+Ans)	Data in cache remain till  does not  clear the cache or clear data from the settings. 
+
+c)	What are critical Permissions and Normal Permissions? What are the examples of each?
+Ans)  Normal permission where no great risk in allowing an app to vibrate the device, so that permission is designated as normal.
+exampleusers would reasonably want to know whether an app can read their contact.
+ 
+     Critical Permission:when there is risk involve in giving the permission which can hinder integrity of a device.Example permission to make changes to system.
+
